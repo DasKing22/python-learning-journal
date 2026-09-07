@@ -1,0 +1,1 @@
+I have learned that Python is widely used but it also compiles each time it run as opposed to other programming language that compile first and then can run repeatedly without needing to recompile each time
